@@ -8,7 +8,7 @@ class Person {
 
   hello() {
     return (
-      " hello, my name is " +
+      "hello, my name is " +
       this.name +
       " and i am " +
       this.age +
